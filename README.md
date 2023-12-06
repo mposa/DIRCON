@@ -5,7 +5,7 @@ Based off the publication
 
 Michael Posa, Scott Kuindersma, Russ Tedrake. "Optimization and Stabilization of Trajectories for Constrained Dynamical Systems." Proceedings of the International Conference on Robotics and Automation (ICRA), 2016. 
 
-Available online at https://posa.seas.upenn.edu/wp-content/uploads/Posa16a.pdf
+Available online at https://dair.seas.upenn.edu/assets/pdf/Posa2016a.pdf
 
 Two approaches to building the project are recommended. See http://drake.mit.edu/ for instructions on building Drake.
 
